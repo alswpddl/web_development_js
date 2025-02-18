@@ -1,12 +1,12 @@
 .div-scoreboard {
   width: 400px;
-  background-color: #009f48;
+  background-color:  #009f48;;
   text-align: center;
   padding: 2px;
-  color: #fff;
+  color: #fff
 }
 
-.div-scoreborad.inner {
+.div-scoreboard.inner {
   margin: auto;
   border: 2px solid #fff;
   box-sizing: border-box;
@@ -63,7 +63,7 @@ button {
   background-color: #525252;
   text-align: center;
   padding: 2px;
-  color: #fff;
+  color: #fff
 }
 
 .div-control-name {
